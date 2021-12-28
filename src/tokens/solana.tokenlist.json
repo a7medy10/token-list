@@ -62913,6 +62913,17 @@
       "extensions": {
         "website": "https://ntontel.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Gj9az6TsCn6uivJPxHqD2WTqbmCgDWR4Y87GgnKefBib",
+      "symbol": "Novk",
+      "name": "Novkcoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/a7medy10/AMAcoin/main/blockchain-logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
